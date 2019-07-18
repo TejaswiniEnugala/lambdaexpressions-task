@@ -1,5 +1,11 @@
 1)Create Employee class having 3 fields name as age , name and lastname.Generate constructor and getter/setter.Create LambdaDemoClass this class will create List objects of type Employees.Following implementation needs to be done a)Sort the list by lastname.b)print all employee whose lastname starts with ‘C’
+
+
+
 2)Create class StreamDemo .Create list like - places.add("Nepal, Kathmandu");places.add("Nepal, Pokhara");places.add("India, Delhi");places.add("USA, New York");places.add("Africa, Nigeria");a)print all the places from Nepal.Output should be Kathmandu and Pokhara.
+
+
+
 3)Create class StreamDemo.Create List like-memberNames.add("Amitabh");
 memberNames.add("Shekhar");
 memberNames.add("Aman");
